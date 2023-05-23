@@ -1,0 +1,9 @@
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/data/icudtl.dat
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/flutter_windows.dll
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,0 +1,10 @@
+^D:\MOBILE\PROJECT\SANDBOX_HSI_2.0\LEVEL3\HSI_WEB\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/windows -BD:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows --check-stamp-file D:/Mobile/Project/sandbox_hsi_2.0/level3/hsi_web/build/windows/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

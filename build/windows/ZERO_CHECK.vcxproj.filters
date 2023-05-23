@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Mobile\Project\sandbox_hsi_2.0\level3\hsi_web\build\windows\CMakeFiles\bbc57d4ea387d54e003197495771a067\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BBE4730C-8E00-3276-9BDF-07E3C6A91B73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
